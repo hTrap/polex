@@ -69,7 +69,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 #change time zone
-TIME_ZONE = 'localtime'
+TIME_ZONE = 'UTC'
 
 USE_I18N = True
 
